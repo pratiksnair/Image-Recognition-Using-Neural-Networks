@@ -21,10 +21,10 @@ for i in range(16):
 
 plt.show()
 
-training_images = training_images[:20000]
-training_labels = training_labels[:20000]
-testing_images = testing_images[:4000]
-testing_labels = testing_labels[:4000]
+training_images = training_images[:2000]
+training_labels = training_labels[:2000]
+testing_images = testing_images[:400]
+testing_labels = testing_labels[:400]
 
 # model = models.Sequential()
 # model.add(layers.Conv2D(32, (3,3), activation='relu', input_shape=(32,32,3)))
