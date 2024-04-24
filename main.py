@@ -1,4 +1,4 @@
-import cv2 as cv
+import opencv-python as cv
 import numpy as np 
 import matplotlib.pyplot as plt
 import tensorflow as tf
