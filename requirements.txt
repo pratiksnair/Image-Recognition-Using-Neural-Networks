@@ -1,4 +1,4 @@
-cv2
+cv
 numpy
 matplotlib.pyplot
 tensorflow
